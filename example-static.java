@@ -1,3 +1,13 @@
+# Static Example
+## example static
+
+public class MyStatic {
+
+    public static String name;
+    public String address;
+    
+}
+
 public class MainTestStatic {
     
     public static void main(String[] args) {
